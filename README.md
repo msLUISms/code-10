@@ -2,6 +2,18 @@
  
  Comando para configurar el usuario y el correo
 
+*para ver la version git
+
+```bash
+git --version
+```
+
+*para configurar correo
+``` js
+git config --global user.mail "mail"
+```
+
+*para configurar username
 ```bash
 git config --global user.name "username"
 ```
