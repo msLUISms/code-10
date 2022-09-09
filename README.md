@@ -65,3 +65,15 @@ git branch -M main
 git remote add origin https://github.com/msLUISms/code-10.git
 git push -u origin main
 ```
+
+* complementos para agregar a visual estudio code
+   bootstrap 4, Font awesome
+   Live Server
+   Markdown Preview
+   Prettier - Code 
+   vscode-icons
+* Para guardar código
+
+```bash
+https://codeshare.io/QnYzVW
+```
