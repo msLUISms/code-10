@@ -16,7 +16,7 @@ h1{
 }
 
 #div_temas{
-    display: none;
+    display: block;
 }
 
 .product_cell{
